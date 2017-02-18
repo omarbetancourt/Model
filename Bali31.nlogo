@@ -1,4 +1,3 @@
-patches-own [r1]
 breed [subaks]
 breed [dams]
 breed [damdam]
